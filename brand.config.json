@@ -79,7 +79,7 @@
         "css_variable_prefix": "--brand"
     },
     "platform": {
-        "name": "Flomzbinary",
+        "name": "Proofedbinary",
         "footer": {
             "enable_language_settings": false,
             "enable_theme_toggle": true
@@ -107,6 +107,6 @@
             }
         },
         "show_name": true,
-        "logo_path": "/logo.jpg"
+        "logo_path": "/logo.png"
     }
 }
